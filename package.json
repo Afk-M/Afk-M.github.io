@@ -1,7 +1,7 @@
 {
   "name": "portfolio-site-react",
   "version": "0.1.0",
-  "homepage": "https://afk-m.github.io/portfolio-site-react",
+  "homepage": "https://afk-m.github.io",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",

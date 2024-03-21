@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './components/Home';
 import About from './components/About';
 import Projects from './components/Projects';
@@ -12,7 +12,7 @@ import RouteTransition from './components/RouteTransition';
 
 const App: React.FC = () => {
   return (
-      <Router>
+      <Router basename="/">
         <CubeBackground />
         <Navbar />
         <TypingEmblem />
