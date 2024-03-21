@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+## Stack
+- TypeScript
+- React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+## Features
+- Spinning background octahedron responsive with cursor movement
+- Name typing animation
+- Fade transition between pages
+- Footer for socials
+- Responsive mobile layout
+- Expandable portfolio list
+- Readable and expandable codebase
 
 ### `npm start`
 
