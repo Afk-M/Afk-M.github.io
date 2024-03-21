@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
             <br></br>
             <div style={{marginTop: '10px'}}>
                 <span style={{ fontSize: '12px' }}>© 2024 matt n.i.</span>
-                <a style={{ fontSize: '12px' }} href="https://example.com">this site is open-source</a>
+                <a style={{ fontSize: '12px' }} href="https://github.com/afk-m/portfolio-site-react">this site is open-source</a>
             </div>
         </footer>
     );
