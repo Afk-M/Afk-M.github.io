@@ -5,10 +5,10 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 const Footer: React.FC = () => {
     return (
         <footer>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/afk-m" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faGithub} size="2x" />
             </a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/mniozzo/" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faLinkedin} size="2x" />
             </a>
             <br></br>
